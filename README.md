@@ -26,7 +26,7 @@ mongodb-runner start
 subindo o servidor Parse
 ```
 npm install -g parse-server
-parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongodb://localhost/test
+parse-server --appId filmesEmHd --masterKey secret --databaseURI mongodb://localhost/test
 
 ```
 
