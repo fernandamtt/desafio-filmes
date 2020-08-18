@@ -22,7 +22,7 @@ mongodb-runner start
  
  ``` docker-compose -f stack.yml up ```
  
-## Comando para instalar o Parse Server localmente
+## Parse Server localmente
 subindo o servidor Parse
 ```
 npm install -g parse-server
